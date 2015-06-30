@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh"
+        android:title="@string/action_Refresh"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_FacebookSignIn"
+        android:icon="@drawable/fb"
+        android:title="@string/action_FBAcc"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_TwitterSignIn"
+        android:icon="@drawable/tw"
+        android:title="@string/action_TWAcc"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_Close"
+        android:icon="@drawable/close"
+        android:title="@string/action_Close"
+        app:showAsAction="ifRoom" />
+</menu>

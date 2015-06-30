@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Socify</string>
+    <string name="facebook_app_id">1637628019802121</string>
+    <string name="hello_socify">Welcome To Socify</string>
+    <string name="copyright_socify">We simplify your world</string>
+
+    <string name="action_ManageAcc">Manage Accounts</string>
+    <string name="action_FBAcc">Facebook</string>
+    <string name="action_TWAcc">Twitter</string>
+    <string name="action_FLAcc">Google+</string>
+    <string name="action_Close">Close</string>
+    <string name="action_Sort">Sort</string>
+    <string name="action_Filter">Filter</string>
+    <string name="action_Refresh">Refresh</string>
+    <string name="sortByDate">Sort by date</string>
+    <string name="sortByCategory">Sort by category</string>
+    <string name="filterFb">Facebook</string>
+    <string name="filterTw">Twitter</string>
+    <string name="filterFl">Flickr</string>
+</resources>
